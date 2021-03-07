@@ -4,17 +4,27 @@ Use the starter code and try to make a responsive website with Bootstrap which a
 
 Watch this video https://youtu.be/Is1q8Upa8_Q for further clarification. 
 
-![alt text][X-large]
-[X-Large]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Large.png
+X-Large
+![alt text][logo]
 
-![alt text][Large]
-[Large]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Large.png
+[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Large.png
 
-![alt text][Medium]
-[Medium]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Medium.png
+Large
+![alt text][logo]
 
-![alt text][Small]
-[Small]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Small.png
+[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Large.png
 
-![alt text][X-Small]
-[X-Small]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Smaill.png
+Medium
+![alt text][logo]
+
+[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Medium.png
+
+Small
+![alt text][logo]
+
+[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Small.png
+
+X-Small
+![alt text][logo]
+
+[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Smaill.png
