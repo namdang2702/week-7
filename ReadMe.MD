@@ -10,21 +10,21 @@ X-Large
 [logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Large.png
 
 Large
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Large.png
+[logo2]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Large.png
 
 Medium
-![alt text][logo]
+![alt text][logo3]
 
-[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Medium.png
+[logo3]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Medium.png
 
 Small
-![alt text][logo]
+![alt text][logo4]
 
-[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Small.png
+[logo4]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/Small.png
 
 X-Small
-![alt text][logo]
+![alt text][logo5]
 
-[logo]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Smaill.png
+[logo5]: https://github.com/mattkrebs2000/BootstrapGridSystem/blob/master/X-Smaill.png
