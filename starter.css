@@ -13,12 +13,12 @@ h1 {
 }
 h2 {
 	color: sandybrown;
-	font-size: 15px;
 }
 p {
 	color: #555;
-	font-size: 17px;
+	font-size: 15px;
 	line-height: 1.4;
+	padding: 5px;
 }
 
 a {
@@ -46,37 +46,30 @@ ul > li {
 
 /* Structure */
 article {
-
-	margin: 0 auto;
+	margin: 5px;
     align-items: "center";
-   display:flex;
 }
 
 section {
-
-	width: 350px;
-	height: 450px;
-	padding: 30px 20px;
-	margin: 20px 10px;
+	font-size: 75%;
+	height: auto;
+	padding: 10px 1px;
+	margin: 10px 0 10px 0;
 	border: 5px solid #409fff;
 	background-color: #f5f5f5;
 	box-shadow: 0 30px 40px -20px rgba(0,0,0,0.3);
-    flex:1;
 }
 
 section.wide {
-	
+	width: auto;
 	height: auto;
-	text-align: center;
-    margin-left: auto;
-    margin-right:auto;
+	text-align: center;    
 }
 
 section.wide h2{
-	width: 300px;
+	font-size: 25px;
     height: 48px;
 	line-height: 38px;
-	width: 100%;
 	top: -24px;
 	left: 50%;
 	margin: 0;
@@ -89,11 +82,9 @@ section.wide h2{
 section h2 {
 	height: 48px;
 	line-height: 38px;
-	width: 100%;
+	font-size: 100%;
 	top: -24px;
 	left: 50%;
-	margin: 0;
-	padding: 0;
 	background-color: #f5f5f5;
 	border: 5px solid #409fff;
 	text-align: center;
@@ -109,20 +100,23 @@ span {
 figure {
 	background-color: sandybrown;
 	height: 80px;
-	padding: 0;
-align-items: center;
+	padding: 0	;
+	align-items: center;
 	color: white;
 	line-height: 100px;
 	text-align: center;
-    width:200px;    
     margin-left: auto;
     margin-right:auto;
+	border-width: auto;
 }
 
 section.lowergroup {
-    margin-left:auto;
-    margin-right:auto
+	margin-left: auto;
+	margin-right: auto;
 }
+
+
+
 /* Set Display Types */
 
 
